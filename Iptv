@@ -1,0 +1,36 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io"
+
+# --- SECCIÓN MÉXICO (IPTV-ORG) ---
+#EXTINF:-1 tvg-id="CanalOnce.mx" group-title="MÉXICO",Canal Once (MX)
+https://canalonce.primetime.com.mx
+
+#EXTINF:-1 tvg-id="Canal22.mx" group-title="MÉXICO",Canal 22 (MX)
+https://online.canal22.org.mx
+
+# --- SECCIÓN AMÉRICA (LATAM) ---
+#EXTINF:-1 tvg-id="Telefe.ar" group-title="AMÉRICA LATINA",Telefe (Argentina)
+https://telefe-live.akamaized.net
+
+#EXTINF:-1 tvg-id="Caracol.co" group-title="AMÉRICA LATINA",Caracol TV (Colombia)
+https://caracol-live.akamaized.net
+
+# --- SECCIÓN PELÍCULAS (ESTRENO Y CLÁSICOS) ---
+#EXTINF:-1 group-title="PELÍCULAS: ESTRENOS",Cine Estrenos (Pluto TV)
+https://service-stitcher.clusters.pluto.tv
+
+#EXTINF:-1 group-title="PELÍCULAS: CLÁSICOS",Cine Clásico (Pluto TV)
+https://service-stitcher.clusters.pluto.tv
+
+# --- SECCIÓN SERIES ---
+#EXTINF:-1 group-title="SERIES",Star Trek (Canal 24h)
+https://service-stitcher.clusters.pluto.tv
+
+#EXTINF:-1 group-title="SERIES",CSI Miami (Canal 24h)
+https://service-stitcher.clusters.pluto.tv
+
+# --- SECCIÓN ANIME ---
+#EXTINF:-1 group-title="ANIME",Naruto (TV Latino)
+https://service-stitcher.clusters.pluto.tv
+
+#EXTINF:-1 group-title="ANIME",Anime Acción
+https://service-stitcher.clusters.pluto.tv
